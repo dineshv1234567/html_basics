@@ -1,0 +1,42 @@
+
+h1{
+	clear:both;
+	background: url(download.png) repeat-x;
+}
+
+.wrap{
+	margin:auto;
+	width:80%; 
+	background-color: gray;
+}
+.content,aside{
+	height: 200px;
+}
+.content {
+	background-color: red;
+	float: left;
+	width: 70%
+}
+
+aside ul{
+	list-style: none;
+	padding-left: 0;
+}
+aside{
+
+	background-color: yellow;
+}
+
+footer{
+	clear: both;
+}
+
+li.demo
+{
+	display: inline;
+}
+a
+{
+	text-decoration: none;
+}
+
